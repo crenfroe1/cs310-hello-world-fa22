@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Chloe Renfroe
  */
 
 public class Class2 {
